@@ -1,5 +1,5 @@
 - 👋 Hi! I’m 小夏的发夹.
-- 📫 Ask me about anything [HERE](https://github.com/Prophecy2/myinfo/issues).
+- 📫 Ask me about anything [HERE](https://github.com/natsuu233/myinfo/issues).
 - 😴 Always lacking time to sleep...
 
 <!---
